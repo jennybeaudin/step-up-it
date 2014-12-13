@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
+title: Step Up to Information Technology
+menu_text: About
 permalink: /about/
 ---
 
-## Step Up to Information Technology
-
-### Beginning January 21 in Essex, Vermont
+## Beginning January 21 in Essex, Vermont
 
 **Call or email to register! ♦  [Download flyer here]({{ site.baseurl }}/files/StepUp_IT_flyer_11_20141.pdf)**
 

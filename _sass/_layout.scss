@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 38px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -19,13 +19,24 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        text-decoration: none;
+    }
+
+    &:hover {
+        opacity: 0.8;
+        color: $brand-color;
+    }
+
+    img {
+        width: 150px;
+        padding: 15px 5px 15px 0;
     }
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    font-size: 18px;
 
     .menu-icon {
         display: none;
@@ -121,18 +132,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -165,10 +176,6 @@
     padding: $spacing-unit 0;
 }
 
-.page-heading {
-    font-size: 20px;
-}
-
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -198,7 +205,6 @@
 }
 
 .post-title {
-    font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -211,18 +217,18 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: $font-size-beta;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: $font-size-gamma;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: $font-size-gamma;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: $font-size-delta;
         }
     }
 

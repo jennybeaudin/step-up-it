@@ -2,18 +2,21 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><strong>Step Up Program</strong></li>
+          <li>{{ site.contact_name }}</li>
+          <li>{{ site.contact_title }}</li>
+          <li>{{ site.contact_phone }}</li>
+          <li><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
+        <ul class="contact-list">
+          <li><strong>Vermont Works for Women</strong></li>
+          <li><a href="{{ site.vww_url }}">{{ site.vww_url }}</a></li>
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
