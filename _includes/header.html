@@ -19,7 +19,7 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title or page.menu_text %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu_text | default: page.title }}</a>
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{% if page.menu_text %}{{ page.menu_text }}{% else %}{{ page.title }}{% endif %}</a>
           {% endif %}
         {% endfor %}
       </div>

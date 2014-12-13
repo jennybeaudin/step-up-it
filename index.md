@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step Up to Information Technology
-menu_hide: true
+menu_text: Home
 permalink: /
 ---
 
