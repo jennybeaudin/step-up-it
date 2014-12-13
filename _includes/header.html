@@ -17,9 +17,9 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title or page.menu_text %}
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{% if page.menu_text %}{{ page.menu_text }}{% else %}{{ page.title }}{% endif %}</a>
+        {% for node in site.pages %}
+          {% if node.title or node.menu_text %}
+              <a href="{{ node.url | prepend: site.baseurl }}" class="page-link{% if node.url == page.url %} current{% endif %}">{% if node.menu_text %}{{ node.menu_text }}{% else %}{{ node.title }}{% endif %}</a>
           {% endif %}
         {% endfor %}
       </div>

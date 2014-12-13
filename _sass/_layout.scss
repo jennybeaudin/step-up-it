@@ -41,6 +41,7 @@
 
 .site-nav {
     float: right;
+    margin-top: 15px;
 
     .menu-icon {
         display: none;
@@ -52,6 +53,10 @@
         font-weight: bold;
         float: left;
         padding: 10px;
+    }
+
+    .current {
+        border-bottom: 2px solid $orange-color;
     }
 
     @include media-query($on-palm) {
