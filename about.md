@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Beginning January 21 in Essex, Vermont
 
-&*Call or email to register! ♦  [Download flyer here]({{ site.baseurl }}/files/StepUp_IT_flyer_11_20141.pdf)**
+**Call or email to register! ♦  [Download flyer here]({{ site.baseurl }}/files/StepUp_IT_flyer_11_20141.pdf)**
 
 Step Up to Information Technology is a newly designed, nine-week program for women interested in the field of IT, focusing on front-end web development skills such as coding and programming. Classes will be held at the Center for Technology Essex (CTE):
 
