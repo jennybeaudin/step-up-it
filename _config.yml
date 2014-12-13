@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Step Up to Information Technology is a newly designed, nine-week 
     program for women interested in the field of IT, focusing on front-end 
     web development skills such as coding and programming. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/step-up-it" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: VTWorks4Women
 github_username:  VTWorksForWomen
