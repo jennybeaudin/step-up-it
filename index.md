@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: Step Up to Information Technology
-menu_text: About
-permalink: /about/
+menu_hide: true
+permalink: /
 ---
 
 ## Beginning January 21 in Essex, Vermont
@@ -33,5 +33,5 @@ The ever-growing field of information technology offers exciting, fun and creati
 * Introduction to female professionals working in the field
 * Honing participants’ employment skills, including resume & cover letter preparation, social media presence, and interviewing and communications skills
 
-**Please contact:** Jenny Beaudin, Step Up program coordinator
-[jbeaudin@vtworksforwomen.org](mailto:jbeaudin@vtworksforwomen.org), 802.622.0400, ext. 150
+**Please contact:** {{ site.contact_name }}, {{ site.contact_title }}, <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>,
+{{ site.contact_phone }}
