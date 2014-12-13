@@ -15,12 +15,17 @@ Software
 Labs
 ----
 
+TODO: Labs
 
 Lecture Notes
 -------------
 
+TODO: Lecture Noes
+
 Homework
 --------
+
+TODO: Homework
 
 Learning & Reference
 --------------------
