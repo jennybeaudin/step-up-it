@@ -5,8 +5,6 @@ menu_text: Jobs in IT
 permalink: /jobs-in-it
 ---
 
-# VWW IT Jobs
-
 - Project Management 
     - People
         - Donna Bepler, Director of Operations, Vermont Design Works
