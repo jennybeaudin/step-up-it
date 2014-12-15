@@ -2,7 +2,7 @@
 layout: default
 title: Jobs in IT
 menu_text: Jobs in IT
-permalink: /jobs-in-it
+permalink: /jobs-in-it/
 ---
 
 - Project Management 
