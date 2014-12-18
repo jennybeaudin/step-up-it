@@ -9,7 +9,7 @@ section of this course. The requirements for each one are described below.
 
 ## Project 1: Resume
 
-Students will design and build an HTML/CSS version of their resume. This
+Students will build an HTML/CSS version of their resume. This
 project focuses on HTML for content (paragraphs, headings, etc.) and CSS
 for typography (font family, size, weight, color, etc.) and assignments
 should demonstrate knowledge of this material. This is a one page
@@ -35,15 +35,6 @@ The resume should include the following information/sections:
     -   Job Title
     -   Description
     -   Dates
-
-### Design
-
-Students will design their resume using Illustrator or Photoshop and
-submit the final design in PDF format. The design can be purely
-typographic with no requirement for multi-column layout. Students must
-use a web-safe font or select a web font (free web fonts are available
-from [google](http://www.google.com/fonts) and
-[adobe](http://html.adobe.com/edge/webfonts/)).
 
 ### Production
 
@@ -72,7 +63,7 @@ The HTML and CSS should demonstrate the following techniques:
 
 ## Project 2: Site Layout
 
-Students will design a basic website layout and produce it using
+Students will build a basic website layout and produce it using
 HTML/CSS. This project is designed to familiarize students with CSS
 layout properties such as floating/clearing and positioning.
 
@@ -96,13 +87,6 @@ The following elements/sections are required in the layout:
 -   Footer
     -   Paragraph with copyright symbol
     -   Paragraph with text only navigation
-
-### Design
-
-Students will create their design using Illustrator or Photoshop and
-submit the design as a PDF. The design should show how the second level
-navigation dropdown will appear. The layout must be a multi-column
-layout and it must be centered within the browser.
 
 ### Production
 
@@ -136,7 +120,7 @@ The HTML and CSS should demonstrate the following techniques:
 
 ## Project 3: Photo Gallery
 
-Students will design and build a photo gallery using HTML and CSS. The
+Students will build a photo gallery using HTML and CSS. The
 photo gallery will include a display of thumbnail images that are
 clickable in order to view a larger size image with an associated title
 and description. This project focuses on basic layout and must use
@@ -151,19 +135,10 @@ Students will include at 10 images in the photo gallery, with two
 different versions of each image (thumbnail and full size - the same
 image cannot be used as both the thumbnail and full size image).
 
-### Design
-
-Students will design their resume using Illustrator or Photoshop and
-submit the final design in PDF format. The design will demonstrate how
-thumbnails will be displayed as well as how the full size image is
-displayed. This can be submitted as a 2-page PDF or 2 separate PDFs. The
-display of the full size images must be customized and cannot be the
-default styles supplied by jQuery plugin.
-
 ### Production
 
-Students will build an HTML and CSS version of the Photo Gallery they
-have designed. The HTML and CSS should demonstrate the following
+Students will build an HTML and CSS version of the Photo Gallery.
+The HTML and CSS should demonstrate the following
 techniques:
 
 #### HTML
