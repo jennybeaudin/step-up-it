@@ -48,6 +48,7 @@ Free resources and courses for online learning.
 -   [Learn CSS Layout](http://learnlayout.com/): CSS Layout Course
 -   [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/):
     HTML + CSS Course
+-   [Software Carpentry: Lessons & Workshops for Scientific Computing](http://software-carpentry.org)
 
 Tools & Resources
 -----------------
