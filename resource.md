@@ -48,7 +48,8 @@ Free resources and courses for online learning.
 -   [Learn CSS Layout](http://learnlayout.com/): CSS Layout Course
 -   [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/):
     HTML + CSS Course
--   [Software Carpentry](http://software-carpentry.org): Lessons & Workshops for Scientific Computing (Git, Python, Databases/SQL, etc.)
+-   [Software Carpentry](http://software-carpentry.org): Lessons & Workshops for Scientific Computing (Git, Python, Databases/SQL)
+-   [RailsBridge](http://docs.railsbridge.org/docs/): Lessons Materials for RailsBridge Workshops (HTML, CSS, Javascript, Ruby)
 
 Tools & Resources
 -----------------
