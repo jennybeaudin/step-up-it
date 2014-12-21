@@ -169,3 +169,31 @@ permalink: /syllabus/
 ## Class 26
 
 - Student Presentations
+
+
+# 2 Month Follow Up 
+
+## Follow Up 1
+
+- Networking, project review and problem solving, employment support  
+
+## Follow Up 2
+
+- Networking, project review and problem solving, employment support  
+
+## Follow Up 3
+
+- Networking, project review and problem solving, employment support  
+- **Negotation**
+
+## Follow Up 4
+
+- Networking, project review and problem solving, employment support  
+
+## Follow Up 5
+
+- Participant  Project Presentations & Feedback
+
+## Follow Up 6
+
+- Participant  Project Presentations & Feedback
