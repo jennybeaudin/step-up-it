@@ -104,5 +104,6 @@ Plugins & Libraries
 -   [Fotorama](http://fotorama.io/): jQuery Lightobx/Gallery Plugin
 
 Certifications
+Certifications
 
 -  [CIW Web Foundations Associate](http://www.ciwcertified.com/certifications/web_foundations_series/associate.php)
