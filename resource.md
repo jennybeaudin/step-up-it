@@ -4,14 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-Software
---------
-
--   [Brackets](http://brackets.io/): Free HTML/CSS/Javascript Editor
-    from Adobe
--   [FileZilla](https://filezilla-project.org/): Free cross-platform FTP
-    software
-
 Labs
 ----
 
@@ -27,8 +19,17 @@ Homework
 
 TODO: Homework
 
+Software
+--------
+
+-   [Brackets](http://brackets.io/): Free HTML/CSS/Javascript Editor
+    from Adobe
+-   [FileZilla](https://filezilla-project.org/): Free cross-platform FTP
+    software
+
 Documentation & References
 --------------------------
+
 *   [DevDocs.io](http://devdocs.io/): Documentation for HTML, CSS, Javascript and more
 -   [HTMLDog](http://htmldog.com): HTML/CSS Reference
 
