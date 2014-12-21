@@ -26,7 +26,7 @@ Software
     from Adobe
 -   [FileZilla](https://filezilla-project.org/): Free cross-platform FTP
     software
--   [Git for Windows](http://msysgit.github.io/)
+-   [Git for Windows](http://msysgit.github.io/): Free git client for windows with shell and graphical interfaces.
 
 Documentation & References
 --------------------------
