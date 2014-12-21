@@ -102,3 +102,7 @@ Plugins & Libraries
 -   [jQuery Cycle2](http://jquery.malsup.com/cycle2/): jQuery Slideshow
     Plugin
 -   [Fotorama](http://fotorama.io/): jQuery Lightobx/Gallery Plugin
+
+Certifications
+
+-  [CIW Web Foundations Associate](http://www.ciwcertified.com/certifications/web_foundations_series/associate.php)
