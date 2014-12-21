@@ -27,15 +27,19 @@ Homework
 
 TODO: Homework
 
-Learning & Reference
---------------------
+Documentation & References
+--------------------------
+*   [DevDocs.io](http://devdocs.io/): Documentation for HTML, CSS, Javascript and more
+-   [HTMLDog](http://htmldog.com): HTML/CSS Reference
+
+Online Learning & Courses
+-------------------------
 
 Free resources and courses for online learning.
 
 -   [TutsPlus Learn CSS](http://learncss.tutsplus.com/): CSS course
 -   [Code Academy](http://www.codecademy.com/): Web Development Courses
 -   [Try jQuery](http://try.jquery.com/): Introduction to jQuery Course
--   [HTMLDog](http://htmldog.com): HTML/CSS Reference
 -   [CSS Tricks: All About
     Floats](http://css-tricks.com/all-about-floats/): Explanation of CSS
     floats
