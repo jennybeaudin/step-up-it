@@ -287,3 +287,42 @@
     }
 
 }
+
+/**
+ * Print
+ */
+
+@media print {
+
+    body {
+        padding-top: 0;
+    }
+
+    .site-header, .syllabus header h2, .syllabus .datetime {
+        position: static !important;
+        border: 0;
+        padding: 0;
+
+    }
+
+    .site-nav {
+        display: none;
+    }
+
+    .footer-col {
+        float: none !important;
+        width: auto !important;
+    }
+
+    .syllabus header h2, .syllabus header {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+
+    .syllabus .session {
+        padding: 1.5em 0 1em;
+        margin: 0;
+        border-width: 0 0 1px;
+    }
+
+}

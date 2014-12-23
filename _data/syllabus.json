@@ -69,7 +69,7 @@
         "6:30-8:00 - Self Esteem from the Field"
       ],
       "assignments": [
-        '<a href="http://www.codecademy.com/tracks/web">Code Academy: HTML Basics</a>',
+        "<a href=\"http://www.codecademy.com/tracks/web\">Code Academy: HTML Basics</a>",
         "PluraSight HTML & CSS Intro Module"
       ]
     },{
@@ -251,7 +251,7 @@
       "labs": [
         "CSS Buttons with Background Images and Sprites",
         "CSS Button with CSS3",
-        "CSS Animation for hover effects",
+        "CSS Animation for hover effects"
       ],
       "assignments": [
         "Project 2: Complete application of CSS to HTML for Site Layout"
