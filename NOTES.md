@@ -9,6 +9,7 @@
 ## General Notes
 
 - Focus on javascript over any specific backend language
+- 10-12 People in the class
 
 ## To Do
 
@@ -23,6 +24,8 @@
 - [ ] Review/revise project descriptions
 - [ ] Migration/revise final project description
 - [ ] Flesh out final course project info
+- [ ] Contact alex about TA/teaching
+- [ ] Contact other TAs for Photoshop, HTML, CSS, Javascript, Wordpress
 
 ## Saturday Session Format
 
@@ -48,6 +51,9 @@
 
 ## Final Project
 
+- 2 month follow up period should be self directed for student to create a strategy to pursue whatever area of IT they are most interested in
+with VWW faciliating in terms of connecting them with resources and mentors to further this strategy. Before this period of the class the student
+should have identified a project to work on based on their desired direction to pursue.
 - Students will find a business in need of a website or a website rebuild (preferably a rebuild
 as the content is more readily available). Over the course of the class they will gather the materials
 and put together a plan to complete the rebuild. The idea is to use wordpress and select a theme and
