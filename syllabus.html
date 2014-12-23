@@ -1,0 +1,38 @@
+---
+layout: default
+title: Syllabus
+permalink: /syllabus/
+---
+
+<div class="syllabus">
+{% for session in site.data.syllabus.sessions %}
+<article class="session">
+  <header>
+    <h2>Class {{ forloop.index }}</h2>
+    <p class="datetime">{{ session.date }} {{ session.start_time }} - {{ session.end_time }}</p>
+  </header>
+  <h3>Subjects</h3>
+  <ul>
+    {% for subject in session.subjects %}
+    <li>{{ subject }}</li>
+    {% endfor %}
+  </ul>
+  {% if session.labs %}
+  <h3>Labs</h3>
+  <ul>
+    {% for lab in session.labs %}
+    <li>{{ lab }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% if session.assignments %}
+  <h3>Assignments</h3>
+  <ul>
+    {% for assignment in session.assignments %}
+    <li>{{ assignment }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</article>
+{% endfor %}
+</div>

@@ -20,3 +20,5 @@ contact_phone: 802.622.0400, ext. 150
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true

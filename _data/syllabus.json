@@ -1,0 +1,283 @@
+{
+  "sessions": [
+    {
+      "date": "1/21/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "VWW Welcome w/ Tiff or Rachel",
+        "Intakes, Emergency Contact info, Assessments",
+        "Ice Breaker - Getting to know you",
+        "Course overview (PP on web and languages), Group Rules, Goals, Expectations",
+        "Goal setting - what do you hope to get out of the program - what kind of job are you looking for?"
+      ],
+      "assignments": [
+        "Prep for Saturday - Gmail accounts, Google docs, Pluralsight"
+      ]
+    },{
+      "date": "1/24/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Check-in",
+        "Paperwork follow up",
+        "Homework review",
+        "Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Code Academy, Gmail accounts, Google docs",
+        "Programming and Logic overview/ice breaker",
+        "Women in IT Panel Disucssion & Jobs in IT in Vermont (how you got to where you are and how self esteem plays a role) (5-6 total)"
+      ],
+      "assignments": [
+        "Look around and familiarize with Pluralsight and Code Academy",
+        "Pluralsight module on CSS and HTML"
+      ]
+    },{
+      "date": "1/26/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Check-in and Homework Review",
+        "Computer Anatomy"
+      ],
+      "assignments": [
+        "Resume due Next Class"
+      ]
+    },{
+      "date": "1/28/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Resumes",
+        "Self Esteem from the Field"
+      ],
+      "assignments": [
+        "PluraSight HTML & CSS Intro Module"
+      ]
+    },{
+      "date": "1/31/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Intro to HTML",
+        "Intro to CSS",
+        "Introduction to Project 1: Resume"
+      ],
+      "labs": [
+        "Conversion of Resume to HTML"
+      ],
+      "assignments": [
+        "Complete HTML version of Resume",
+        "Pluralsight HTML Intermediate module",
+        "Work on LinkedIn site"
+      ]
+    },{
+      "date": "2/2/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "One-on-one meetings",
+        "Homework Check-In and Review",
+        "Email etiquette, cleaning up social media, resume review"
+      ],
+      "assignments": [
+        "Resumes revised make online changes"
+      ]
+    },{
+      "date": "2/4/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Coping Skills: Decisionmaking, Problem Solving"
+      ],
+      "assignments": [
+        "Barriers Excercise"
+      ]
+    },{
+      "date": "2/7/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "CSS for Typography"
+      ],
+      "labs": [
+        "Resume styling"
+      ],
+      "assignments": [
+        "Finish HTML resume with CSS styling"
+      ]
+    },{
+      "date": "2/9/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "LinkedIn"
+      ]
+    },{
+      "date": "2/11/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Databases"
+      ],
+      "assignments": [
+        "Follow up on barriers and self esteem exercise"
+      ]
+    },{
+      "date": "2/14/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Javascript"
+      ]
+    },{
+      "date": "2/16/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Communication: Assertiveness, Support Networks"
+      ]
+    },{
+      "date": "2/18/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Introduction to Git and GitHub"
+      ]
+    },{
+      "date": "2/21/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Javascript"
+      ]
+    },{
+      "date": "3/2/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Girl Develop It and Networking",
+        "Giving and Receiving Feedback"
+      ]
+    },{
+      "date": "3/4/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Cover Letters"
+      ]
+    },{
+      "date": "3/7/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Javascript"
+      ]
+    },{
+      "date": "3/9/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Google Analytics"
+      ]
+    },{
+      "date": "3/11/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Sexual Harassment",
+        "Failure (how that ties into self esteem)"
+      ]
+    },{
+      "date": "3/14/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Wordpress"
+      ]
+    },{
+      "date": "3/16/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Interview Panel"
+      ]
+    },{
+      "date": "3/18/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "??"
+      ]
+    },{
+      "date": "3/21/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Photoshop"
+      ]
+    },{
+      "date": "3/23/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Social Media and Marketing"
+      ]
+    },{
+      "date": "3/25/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Arduino"
+      ]
+    },{
+      "date": "3/28/15",
+      "start_time": "9:00am",
+      "end_time": "3:00pm",
+      "subjects": [
+        "Student Presentations"
+      ]
+    },{
+      "date": "3/30/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Networking, project review and problem solving, employment support"
+      ]
+    },{
+      "date": "4/6/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Networking, project review and problem solving, employment support"
+      ]
+    },{
+      "date": "4/13/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Networking, project review and problem solving, employment support",
+        "**Negotation**"
+      ]
+    },{
+      "date": "4/20/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Networking, project review and problem solving, employment support"
+      ]
+    },{
+      "date": "4/27/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Participant  Project Presentations & Feedback"
+      ]
+    },{
+      "date": "5/4/15",
+      "start_time": "5:30am",
+      "end_time": "8:00pm",
+      "subjects": [
+        "Participant  Project Presentations & Feedback"
+      ]
+    }
+  ]
+}
