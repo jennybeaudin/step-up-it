@@ -92,3 +92,27 @@ than web dev so we can allow them to select a more relevant project for after th
 - Hardware (Logic, Laboratory B http://www.laboratoryb.org/)
 - Networking
 - Hacking (Pwny express)
+
+## Questons
+
+- Removed the full saturday on Photoshop in lieue of a single night class
+- Ended up reducing javascript to make room for HTML/CSS, we can reverse this and just
+draw back the scope of what we expect to teach in HTML OR try to spread the HTML/CSS over some
+of the night sessions
+- Concerns that the course will be disjointed due to subject matter of night classes not
+relating back to material covered on saturdays, should figure out a way to ensure that students
+are using and retaining that data. Its complicated by the fact that we may not have the same instructors for the night courses as the saturday sessions
+- It doesnt feel like we have time to cover 
+- Need to clearly define the structure of the 2 month follow up period, we discussed the student
+being responsible for planning and sourcing content for a project to execute after the class as a wordpress
+
+## Other Subjects to Cover
+
+- More javascript
+- Saturday session to review other languages? I'm inclined to focus just on more javascript unless we want to reduce the HTML/CSS workload. There also seem to be some line week nights wihch could be dedicated to various other languages but I would worry about confusing students who are new to programmimg with the different syntaxes they will come across
+- Discussion of soft skills like project management and tech support
+- Security (this is probably too deep an issue to cover much)
+- Gaming
+- Mobile Development
+- Hardware
+- Outbound Marketing

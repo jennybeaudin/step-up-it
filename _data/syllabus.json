@@ -28,6 +28,9 @@
         "Programming and Logic overview/ice breaker",
         "Women in IT Panel Discussion & Jobs in IT in Vermont (how you got to where you are and how self esteem plays a role) (5-6 total)"
       ],
+      "labs": [
+        "Hello World exercise"
+      ],
       "assignments": [
         "Look around and familiarize with Pluralsight and Code Academy",
         "Pluralsight module on CSS and HTML"
@@ -81,7 +84,7 @@
         "Conversion of Resume to HTML"
       ],
       "assignments": [
-        "Complete HTML conversion of Resume content",
+        "Project 1: Complete HTML conversion of Resume content",
         "Pluralsight HTML Intermediate module",
         "Work on LinkedIn site"
       ]
@@ -134,7 +137,7 @@
         "Resume typographic styling with CSS"
       ],
       "assignments": [
-        "Apply CSS styling to Resume"
+        "Project 1: Apply CSS styling to Resume"
       ]
     },{
       "title": "Introduction to Databases & SQL",
@@ -188,7 +191,7 @@
         "HTML/CSS Site Layout"
       ],
       "assignments": [
-        "Complete HTML for Site Layout"
+        "Project 2: Complete HTML for Site Layout"
       ]
     },{
       "title": "Communication: Assertiveness, Support Networks",
@@ -224,7 +227,10 @@
       "labs": [
         "CSS Buttons with Background Images and Sprites",
         "CSS Button with CSS3",
-        "CSS Animation for hover effects"
+        "CSS Animation for hover effects",
+      ],
+      "assignments": [
+        "Project 2: Complete application of CSS to HTML for Site Layout"
       ]
     },{
       "title": "Networking, Giving & Receiving Feedback",
@@ -233,9 +239,14 @@
       "end_time": "8:00pm",
       "subjects": [
         "Girl Develop It and Networking",
-        "Giving and Receiving Feedback"
+        "Giving and Receiving Feedback",
+        "Technical documentation and instructions"
+      ],
+      "labs": [
+        "Writing technical documentation"
       ]
     },{
+      "title": "Cover Letters",
       "date": "3/4/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -243,20 +254,40 @@
         "Cover Letters"
       ]
     },{
+      "title": "Introduction to Javascript",
       "date": "3/7/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Javascript"
+        "Introduction to Javascript: Adding behavior to web sites",
+        "Javascript: Variables and Conditional Logic",
+        "Javascript: Functions",
+        "Javascript: Loops",
+        "Javascript: Objects",
+        "Javascript with HTML: The script tag",
+        "Introduction to Project 3: Photo Gallery"
+      ],
+      "labs": [
+        "Hello World in Javascript",
+        "Writing a calculator in javascript",
+        "Exploring javascript with the Web Developer toolbar"
+      ],
+      "assignments": [
+        "Project 3: Collect and resize thumbnails and large versions of 10 images along with captions for photo gallery.",
+        "Project 3: Create HTML page with all thumbnail images linked to large versions and with a title attribute on the links"
       ]
     },{
+      "title": "Data Analysis & Analytics",
       "date": "3/9/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "Google Analytics"
+        "Google Analytics",
+        "Data Analysis with Python",
+        "Data Visualization"
       ]
     },{
+      "title": "Handling Failure and Harassment",
       "date": "3/11/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -265,13 +296,25 @@
         "Failure (how that ties into self esteem)"
       ]
     },{
+      "title": "Introduction to jQuery",
       "date": "3/14/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Wordpress"
+        "jQuery: The Javascript Utility Belt for the Browser",
+        "jQuery: Finding HTML tags",
+        "jQuery: Handling Click Events"
+      ],
+      "labs": [
+        "Creating a slideshow using jquery plugins",
+        "Hooking up calculator code to the browser to let the user do the calculating",
+        "Debugging css selectors using jQuery and the developer toolbar"
+      ],
+      "assignments": [
+        "Project 3: Add CSS Styling and jQuery Lightbox plugin to open large images in an overlay with a caption when the thumbnails are clicked"
       ]
     },{
+      "title": "Interview Panel",
       "date": "3/16/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -279,20 +322,37 @@
         "Interview Panel"
       ]
     },{
+      "title": "Launching a Website: Domains, Hosting & FTP",
       "date": "3/18/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "??"
+        "Purchasing a Domain: Registrars",
+        "Purchasing Hosting: Web Hosting Provides",
+        "Connecting Domains to a Hosting Account: DNS Servers",
+        "Uploading website files using FTP: Web root",
+        "Launch Checklist"
+      ],
+      "labs": [
+        "Using FTP to transfer files to a hosting account"
       ]
     },{
+      "title": "Content Management Systems & Wordpress",
       "date": "3/21/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Photoshop"
+        "What is a CMS?",
+        "Wordpress: Tour",
+        "Wordpress: Installation",
+        "Wordpress: Themes Overview"
+      ],
+      "labs": [
+        "Installation of wordpress",
+        "Creation and modification of a theme"
       ]
     },{
+      "title": "Social Media and Marketing",
       "date": "3/23/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -300,6 +360,7 @@
         "Social Media and Marketing"
       ]
     },{
+      "title": "Arduino",
       "date": "3/25/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -307,6 +368,7 @@
         "Arduino"
       ]
     },{
+      "title": "Student Presentations",
       "date": "3/28/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
@@ -314,6 +376,7 @@
         "Student Presentations"
       ]
     },{
+      "title": "Follow Up 1",
       "date": "3/30/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -321,6 +384,7 @@
         "Networking, project review and problem solving, employment support"
       ]
     },{
+      "title": "Follow Up 2",
       "date": "4/6/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -328,6 +392,7 @@
         "Networking, project review and problem solving, employment support"
       ]
     },{
+      "title": "Follow Up 3",
       "date": "4/13/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -336,6 +401,7 @@
         "**Negotation**"
       ]
     },{
+      "title": "Follow Up 4",
       "date": "4/20/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -343,6 +409,7 @@
         "Networking, project review and problem solving, employment support"
       ]
     },{
+      "title": "Follow Up 5",
       "date": "4/27/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -350,6 +417,7 @@
         "Participant  Project Presentations & Feedback"
       ]
     },{
+      "title": "Follow Up 6",
       "date": "5/4/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
