@@ -86,7 +86,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     margin: 0 0 0.5em;
     color: $orange-color;
-    font-weight: 300;
+    font-weight: bold;
 }
 
 h1 { font-size: $font-size-alpha; }
@@ -100,6 +100,7 @@ h3 { font-size: $font-size-gamma; }
  */
 a {
     color: $brand-color;
+    font-weight: bold;
     text-decoration: none;
 
     &:visited {

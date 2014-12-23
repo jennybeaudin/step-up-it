@@ -259,6 +259,10 @@
         padding: 3.5em 2em 1em;
         margin: 0 0 2em;
         position: relative;
+        .title {
+            color: $brand-color;
+
+        }
     }
     header h2 {
         font-size: $font-size-gamma;

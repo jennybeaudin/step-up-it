@@ -1,6 +1,7 @@
 {
   "sessions": [
     {
+      "title": "Introduction",
       "date": "1/21/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -12,9 +13,10 @@
         "Goal setting - what do you hope to get out of the program - what kind of job are you looking for?"
       ],
       "assignments": [
-        "Prep for Saturday - Gmail accounts, Google docs, Pluralsight"
+        "Prep for Saturday - Create a gmail and google docs account, create a folder to store your assignments named 'Firstname Lastname - Step Up IT' (example: 'Jenny Beaudin - Step Up IT') and share it with the VWW account (TODO: Fill in email)"
       ]
     },{
+      "title": "Women in IT Panel & Computer Setup",
       "date": "1/24/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
@@ -24,24 +26,30 @@
         "Homework review",
         "Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Code Academy, Gmail accounts, Google docs",
         "Programming and Logic overview/ice breaker",
-        "Women in IT Panel Disucssion & Jobs in IT in Vermont (how you got to where you are and how self esteem plays a role) (5-6 total)"
+        "Women in IT Panel Discussion & Jobs in IT in Vermont (how you got to where you are and how self esteem plays a role) (5-6 total)"
       ],
       "assignments": [
         "Look around and familiarize with Pluralsight and Code Academy",
         "Pluralsight module on CSS and HTML"
       ]
     },{
+      "title": "Computer Anatomy",
       "date": "1/26/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
         "Check-in and Homework Review",
-        "Computer Anatomy"
+        "Computer Anatomy & Terminology: Operating Systems, Software, Malware",
+        "Hardware: CPU, Memory (RAM), Hard Drive",
+        "Networking: Wired/Wireless Networking, Routers",
+        "Software: Email Clients, Web Browsers",
+        "Operating Systems: Windows, Mac OS, Linux, Android/iOS"
       ],
       "assignments": [
         "Resume due Next Class"
       ]
     },{
+      "title": "Resumes and Self Esteem",
       "date": "1/28/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -50,85 +58,140 @@
         "Self Esteem from the Field"
       ],
       "assignments": [
+        '<a href="http://www.codecademy.com/tracks/web">Code Academy: HTML Basics</a>',
         "PluraSight HTML & CSS Intro Module"
       ]
     },{
+      "title": "Introduction to HTML (Hypertext Markup Language)",
       "date": "1/31/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Intro to HTML",
-        "Intro to CSS",
-        "Introduction to Project 1: Resume"
+        "Introduction to Project 1: Resume",
+        "Introduction to HTML: Tags and Attributes",
+        "HTML Document Structure: html, head and body tags",
+        "HTML for Content: Headings, Paragraphs, Emphasis, Lists, Links and Images",
+        "HTML for Structure: Sections and articles",
+        "Chrome Developer Tools"
       ],
       "labs": [
+        "Hello World in HTML",
+        "Brackets Editor Live Preview",
+        "Exploring HTML source code with Chrome Developer Tools",
         "Conversion of Resume to HTML"
       ],
       "assignments": [
-        "Complete HTML version of Resume",
+        "Complete HTML conversion of Resume content",
         "Pluralsight HTML Intermediate module",
         "Work on LinkedIn site"
       ]
     },{
+      "title": "Online Etiquette and Social Media",
       "date": "2/2/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
         "One-on-one meetings",
         "Homework Check-In and Review",
-        "Email etiquette, cleaning up social media, resume review"
+        "Email etiquette, cleaning up social media, resume review",
+        "LinkedIn"
       ],
       "assignments": [
         "Resumes revised make online changes"
       ]
     },{
+      "title": "Decisionmaking and Problem Solving",
       "date": "2/4/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "Coping Skills: Decisionmaking, Problem Solving"
+        "Coping Skills: Decisionmaking, Problem Solving",
+        "Troubleshooting & Tech Support: Asking the right questions"
+      ],
+      "labs": [
+        "Identifying problems with code examples",
+        "Submitting a clear bug report with steps to reproduce"
       ],
       "assignments": [
         "Barriers Excercise"
       ]
     },{
+      "title": "Introduction to CSS (Cascading Style Sheets)",
       "date": "2/7/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "CSS for Typography"
+        "HTML Attribute: Class",
+        "Introduction to CSS: Properties + Values = Rules",
+        "CSS Selectors: Tag and .class Selector",
+        "CSS for Typography: Font/text properties, Web fonts, links (hover/visited/hover/active)"
       ],
       "labs": [
-        "Resume styling"
+        "Attaching a stylesheet with the link tag",
+        "Brackets Inline CSS Editor",
+        "Exploring CSS styles with Chrome Developer Tools",
+        "Using Google webfonts",
+        "Resume typographic styling with CSS"
       ],
       "assignments": [
-        "Finish HTML resume with CSS styling"
+        "Apply CSS styling to Resume"
       ]
     },{
+      "title": "Introduction to Databases & SQL",
       "date": "2/9/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "LinkedIn"
+        "Introduction to Relational Databases (RDBMS): Tables and columns",
+        "Relationships: Joining tables together",
+        "SQL (Structured Query Language): Filtering data based on criteria",
+        "Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)"
       ]
     },{
+      "title": "Images & Photoshop",
       "date": "2/11/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "Databases"
+        "Image resolution and quality",
+        "Photoshop Basics: Resizing and Cropping",
+        "Optimizing Images for the web and print",
+        "Raster Image Formats: JPG and PNG",
+        "Vector Image Formats: EPS and SVG"
+      ],
+      "labs": [
+        "Photoshop: Save for Web Dialog",
+        "Photoshop: Slicing Image Files"
       ],
       "assignments": [
         "Follow up on barriers and self esteem exercise"
       ]
     },{
+      "title": "HTML & CSS for Layout",
       "date": "2/14/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Javascript"
+        "Introduction to Project 2: Site Layout",
+        "HTML Tags for Layout: div, header, footer, nav and main",
+        "HTML Attributes: id",
+        "CSS Selectors: #id selector: ",
+        "CSS: Floats for Content Images",
+        "CSS: Floats for Multi Column Layout",
+        "CSS: Positioning"
+      ],
+      "labs": [
+        "Utility classes for content images (left, right, center)",
+        "Create a three column layout of 3 products with images floats",
+        "Create a fixed header with positioning",
+        "Add product titles with relative and absolute positioning",
+        "HTML/CSS Site Layout"
+      ],
+      "assignments": [
+        "Complete HTML for Site Layout"
       ]
     },{
+      "title": "Communication: Assertiveness, Support Networks",
       "date": "2/16/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
@@ -136,20 +199,35 @@
         "Communication: Assertiveness, Support Networks"
       ]
     },{
+      "title": "Version Control with Git",
       "date": "2/18/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "Introduction to Git and GitHub"
+        "Introduction to Version Control Systems (VCS)",
+        "Introduction to Git: Staging and commiting changes",
+        "Introduction to Git: Branches",
+        "Introduction to Git: Merging",
+        "Introduction to Github: Adding a remote and pushing your changes"
       ]
     },{
+      "title": "CSS Background Images and Effects",
       "date": "2/21/15",
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Javascript"
+        "CSS Background Images",
+        "CSS Sprites",
+        "CSS3 Effects: Text/Drop Shadow, Gradients, Rounded Corners",
+        "CSS3 Animations"
+      ],
+      "labs": [
+        "CSS Buttons with Background Images and Sprites",
+        "CSS Button with CSS3",
+        "CSS Animation for hover effects"
       ]
     },{
+      "title": "Networking, Giving & Receiving Feedback",
       "date": "3/2/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
