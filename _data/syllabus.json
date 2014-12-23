@@ -25,8 +25,10 @@
         "Paperwork follow up",
         "Homework review",
         "Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Code Academy, Gmail accounts, Google docs",
-        "Programming and Logic overview/ice breaker",
-        "Women in IT Panel Discussion & Jobs in IT in Vermont (how you got to where you are and how self esteem plays a role) (5-6 total)"
+      ],
+      "presentations": [
+        "10:30-12:30 - Programming and Logic overview/ice breaker (Karen Walkerman)",
+        "1:00-3:00 - Women in IT Panel Discussion & Jobs in IT in Vermont: How you got to where you are and how self esteem plays a role (Robin Lane Allison Miller, Maura Crawford, Maureen McElaney)"
       ],
       "labs": [
         "Hello World exercise"
@@ -48,6 +50,9 @@
         "Software: Email Clients, Web Browsers",
         "Operating Systems: Windows, Mac OS, Linux, Android/iOS"
       ],
+      "presentations": [
+        "Computer Anatomy"
+      ],
       "assignments": [
         "Resume due Next Class"
       ]
@@ -59,6 +64,9 @@
       "subjects": [
         "Resumes",
         "Self Esteem from the Field"
+      ],
+      "presentations": [
+        "6:30-8:00 - Self Esteem from the Field"
       ],
       "assignments": [
         '<a href="http://www.codecademy.com/tracks/web">Code Academy: HTML Basics</a>',
@@ -99,6 +107,9 @@
         "Email etiquette, cleaning up social media, resume review",
         "LinkedIn"
       ],
+      "presentations": [
+        "6:30-8:00 LinkedIn (Meghan Oliver)"
+      ],
       "assignments": [
         "Resumes revised make online changes"
       ]
@@ -110,6 +121,9 @@
       "subjects": [
         "Coping Skills: Decisionmaking, Problem Solving",
         "Troubleshooting & Tech Support: Asking the right questions"
+      ],
+      "presentations": [
+        "5:30-8:00 Coping Skills: Decisionmaking, Problem Solving (Julie Lerman)"
       ],
       "labs": [
         "Identifying problems with code examples",
@@ -149,6 +163,9 @@
         "Relationships: Joining tables together",
         "SQL (Structured Query Language): Filtering data based on criteria",
         "Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)"
+      ],
+      "presentations": [
+        "6:30-8:00 Databases"
       ]
     },{
       "title": "Image Manipulation & Photoshop",
@@ -212,6 +229,9 @@
         "Introduction to Git: Branches",
         "Introduction to Git: Merging",
         "Introduction to Github: Adding a remote and pushing your changes"
+      ],
+      "presentations": [
+        "Introduction to Git and Github"
       ]
     },{
       "title": "CSS Background Images and Effects",
@@ -241,6 +261,9 @@
         "Girl Develop It and Networking",
         "Giving and Receiving Feedback",
         "Technical documentation and instructions"
+      ],
+      "presentations": [
+        "6:00-7:00 Girl Develop It and Networking (Maureen McElaney)"
       ],
       "labs": [
         "Writing technical documentation"
@@ -285,6 +308,9 @@
         "Google Analytics",
         "Data Analysis with Python",
         "Data Visualization"
+      ],
+      "presentations": [
+        "Google Analytics"
       ]
     },{
       "title": "Handling Failure and Harassment",
@@ -320,6 +346,9 @@
       "end_time": "8:00pm",
       "subjects": [
         "Interview Panel"
+      ],
+      "presentations": [
+        "6:00-8:00 Interview Panel"
       ]
     },{
       "title": "Launching a Website: Domains, Hosting & FTP",
@@ -358,6 +387,9 @@
       "end_time": "8:00pm",
       "subjects": [
         "Social Media and Marketing"
+      ],
+      "presentations": [
+        "6:00-8:00 Social Media and Marketing"
       ]
     },{
       "title": "Arduino",
@@ -366,6 +398,9 @@
       "end_time": "8:00pm",
       "subjects": [
         "Arduino"
+      ],
+      "presentations": [
+        "5:30-8:00 Arduino"
       ]
     },{
       "title": "Student Presentations",
@@ -398,12 +433,15 @@
       "end_time": "8:00pm",
       "subjects": [
         "Networking, project review and problem solving, employment support",
-        "**Negotation**"
+        "Negotation"
+      ],
+      "presentations": [
+        "Negotation (Meghan Oliver)"
       ]
     },{
       "title": "Follow Up 4",
       "date": "4/20/15",
-      "start_time": "5:30am",
+      "start_time": "6:30am",
       "end_time": "8:00pm",
       "subjects": [
         "Networking, project review and problem solving, employment support"

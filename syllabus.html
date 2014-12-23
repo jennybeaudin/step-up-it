@@ -17,6 +17,14 @@ permalink: /syllabus/
     <li>{{ subject }}</li>
     {% endfor %}
   </ul>
+  {% if session.presentations %}
+  <h3>Presentations</h3>
+  <ul>
+    {% for presentation in session.presentations %}
+    <li>{{ presentation }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% if session.labs %}
   <h3>Labs</h3>
   <ul>
