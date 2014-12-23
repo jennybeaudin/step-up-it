@@ -49,27 +49,11 @@
 - Backend languages (Python, PHP, C#, Ruby)
 - Bootstrap, LESS, Sass
 
-## Final Project
+## 2 Month Follow Up
 
-- 2 month follow up period should be self directed for student to create a strategy to pursue whatever area of IT they are most interested in
-with VWW faciliating in terms of connecting them with resources and mentors to further this strategy. Before this period of the class the student
-should have identified a project to work on based on their desired direction to pursue.
-- Students will find a business in need of a website or a website rebuild (preferably a rebuild
-as the content is more readily available). Over the course of the class they will gather the materials
-and put together a plan to complete the rebuild. The idea is to use wordpress and select a theme and
-customize it and deploy that during the 2 month period following the course.
-    - Design Questionnaire
-    - Logo
-    - Content 
-    - Sitemap
-    - Domain and Hosting setup
-    - WP Theme Selection
-- Students will present this project information at the end of the class.
-- I think its also possible that for a few students they may decide they want to pursue something other
-than web dev so we can allow them to select a more relevant project for after the course.
-
-## End of Class Presentation
-
+- Before students enter the 2 month follow up period we will help them create a strategy to pursue whatever area of IT they are most interested in
+with VWW faciliating in terms of connecting them with resources and mentors to further this strategy. This might include getting a certification,
+completing a project such as building a wordpress site or pursuing an intership at a specific company.
 - Decide on a particular area of IT and profile some employers. Contact them about internship opportunities.
 - Collect resources about that particularl area of IT, we can compile these and share them for future students.
 - Do a presentation on your desired area to pursue and also discuss the project you will be doing during the
@@ -88,6 +72,9 @@ than web dev so we can allow them to select a more relevant project for after th
 
 - Photoshop
 - Wordpress
+- HTML
+- CSS
+- Javascript
 
 ## Different Jobs to have people present on
 
@@ -99,25 +86,13 @@ than web dev so we can allow them to select a more relevant project for after th
 - Networking
 - Hacking (Pwny express)
 
-## Questons
+## Syllabus Feedback
 
-- Removed the full saturday on Photoshop in lieue of a single night class
-- Ended up reducing javascript to make room for HTML/CSS, we can reverse this and just
-draw back the scope of what we expect to teach in HTML OR try to spread the HTML/CSS over some
-of the night sessions
-- Concerns that the course will be disjointed due to subject matter of night classes not
-relating back to material covered on saturdays, should figure out a way to ensure that students
-are using and retaining that data. Its complicated by the fact that we may not have the same instructors for the night courses as the saturday sessions
-- It doesnt feel like we have time to cover 
-- Need to clearly define the structure of the 2 month follow up period, we discussed the student
-being responsible for planning and sourcing content for a project to execute after the class as a wordpress
-- Discuss next steps for outreach to people who are planning on teaching to see what assistance they can offer in terms of generating lecture materials, assignments, etc to reduce the cost to VWW and
-ensure they have their say in what they are teaching since they are the experts.
+- Lose 1 css class or redistribute it to allow for an extra javascritp class
+- Add weekday assignments to reinforce saturday material via elearning sources
 
 ## Other Subjects to Cover
 
-- More javascript
-- Saturday session to review other languages? I'm inclined to focus just on more javascript unless we want to reduce the HTML/CSS workload. There also seem to be some line week nights wihch could be dedicated to various other languages but I would worry about confusing students who are new to programmimg with the different syntaxes they will come across
 - Discussion of soft skills like project management and tech support
 - Security (this is probably too deep an issue to cover much)
 - Gaming
