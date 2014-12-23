@@ -105,6 +105,8 @@ are using and retaining that data. Its complicated by the fact that we may not h
 - It doesnt feel like we have time to cover 
 - Need to clearly define the structure of the 2 month follow up period, we discussed the student
 being responsible for planning and sourcing content for a project to execute after the class as a wordpress
+- Discuss next steps for outreach to people who are planning on teaching to see what assistance they can offer in terms of generating lecture materials, assignments, etc to reduce the cost to VWW and
+ensure they have their say in what they are teaching since they are the experts.
 
 ## Other Subjects to Cover
 
