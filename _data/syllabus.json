@@ -61,7 +61,7 @@
         "Self Esteem from the Field"
       ],
       "assignments": [
-        '<a href="http://www.codecademy.com/tracks/web">Code Academy: HTML Basics</a>',
+        "<a href=\"http://www.codecademy.com/tracks/web\">Code Academy: HTML Basics</a>",
         "PluraSight HTML & CSS Intro Module"
       ]
     },{
