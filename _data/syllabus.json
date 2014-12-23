@@ -97,21 +97,19 @@
         "Work on LinkedIn site"
       ]
     },{
-      "title": "Online Etiquette and Social Media",
+      "title": "Introduction to Databases & SQL",
       "date": "2/2/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "One-on-one meetings",
-        "Homework Check-In and Review",
-        "Email etiquette, cleaning up social media, resume review",
-        "LinkedIn"
+        "How Databases are used by Websites",
+        "Introduction to Relational Databases (RDBMS): Tables and columns",
+        "Relationships: Joining tables together",
+        "SQL (Structured Query Language): Filtering data based on criteria",
+        "Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)"
       ],
       "presentations": [
-        "6:30-8:00 LinkedIn (Meghan Oliver)"
-      ],
-      "assignments": [
-        "Resumes revised make online changes"
+        "6:30-8:00 Databases"
       ]
     },{
       "title": "Decisionmaking and Problem Solving",
@@ -154,18 +152,21 @@
         "Project 1: Apply CSS styling to Resume"
       ]
     },{
-      "title": "Introduction to Databases & SQL",
+      "title": "Online Etiquette and Social Media",
       "date": "2/9/15",
       "start_time": "5:30am",
       "end_time": "8:00pm",
       "subjects": [
-        "Introduction to Relational Databases (RDBMS): Tables and columns",
-        "Relationships: Joining tables together",
-        "SQL (Structured Query Language): Filtering data based on criteria",
-        "Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)"
+        "One-on-one meetings",
+        "Homework Check-In and Review",
+        "Email etiquette, cleaning up social media, resume review",
+        "LinkedIn"
       ],
       "presentations": [
-        "6:30-8:00 Databases"
+        "6:30-8:00 LinkedIn (Meghan Oliver)"
+      ],
+      "assignments": [
+        "Resumes revised make online changes"
       ]
     },{
       "title": "Image Manipulation & Photoshop",
@@ -217,6 +218,9 @@
       "end_time": "8:00pm",
       "subjects": [
         "Communication: Assertiveness, Support Networks"
+      ],
+      "presentations": [
+        "6:00-7:00 Communication: Assertiveness, Support Networks (Jenny)"
       ]
     },{
       "title": "Version Control with Git",
