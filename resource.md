@@ -58,6 +58,8 @@ Free resources and courses for online learning.
 -   [RailsBridge](http://docs.railsbridge.org/docs/): Lessons Materials for RailsBridge Workshops (HTML, CSS, Javascript, Ruby)
 -   [Try Git](https://try.github.io)
 -   [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction)
+- [FreeCodeCamp](http://www.freecodecamp.com/): Learn to code by building projects for nonprofits (HTML, CSS, Javascript, jQuery, Node.js, MongoDB, Git)
+- [Dash](https://dash.generalassemb.ly/): Learn HTML, CSS, and Javascript through fun projects you can do in your browser.
 
 Tools & Resources
 -----------------
