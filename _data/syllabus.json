@@ -3,16 +3,16 @@
     {
       "title": "Introduction",
       "date": "1/21/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "VWW Welcome w/ Tiff or Rachel",
         "Intakes, Emergency Contact info, Assessments",
         "Ice Breaker - Getting to know you",
-        "Course overview (PP on web and languages), Group Rules, Goals, Expectations",
-        "Goal setting - what do you hope to get out of the program - what kind of job are you looking for?"
+        "Course overview (Github site for curriculum and assignments), Group Rules, Goals, Expectations",
       ],
       "assignments": [
+        "Goal setting - what do you hope to get out of the program - what kind of job are you looking for?",
         "Prep for Saturday - Create a gmail and google docs account, create a folder to store your assignments named 'Firstname Lastname - Step Up IT' (example: 'Jenny Beaudin - Step Up IT') and share it with the VWW account (TODO: Fill in email)"
       ]
     },{
@@ -24,23 +24,24 @@
         "Check-in",
         "Paperwork follow up",
         "Homework review",
-        "Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Code Academy, Gmail accounts, Google docs",
+        "Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Codecademy, Gmail accounts, Google docs",
       ],
       "presentations": [
         "10:30-12:30 - Programming and Logic overview/ice breaker (Karen Walkerman)",
-        "1:00-3:00 - Women in IT Panel Discussion & Jobs in IT in Vermont: How you got to where you are and how self esteem plays a role (Robin Lane Allison Miller, Maura Crawford, Maureen McElaney)"
+        "1:00-3:00 - Women in IT Panel Discussion & Jobs in IT in Vermont: How you got to where you are and how self esteem plays a role (Robin Lane Allison Miller, Maura Crawford, Maureen McElaney, Donna Bepler)"
       ],
       "labs": [
         "Hello World exercise"
       ],
       "assignments": [
-        "Look around and familiarize with Pluralsight and Code Academy",
-        "Pluralsight module on CSS and HTML"
+        "Look around and familiarize with Pluralsight and Codecademy",
+        "Pluralsight module on CSS and HTML",
+        "Resumes: Drafts to Jenny by Monday"
       ]
     },{
       "title": "Computer Anatomy",
       "date": "1/26/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Check-in and Homework Review",
@@ -54,22 +55,22 @@
         "Computer Anatomy"
       ],
       "assignments": [
-        "Resume due Next Class"
+        "Resumes: 2nd Draft to Jenny by next class"
       ]
     },{
       "title": "Resumes and Self Esteem",
       "date": "1/28/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Resumes",
         "Self Esteem from the Field"
       ],
       "presentations": [
-        "6:30-8:00 - Self Esteem from the Field"
+        "6:30-8:00 - Self Esteem from the Field (Karyn Vogel)"
       ],
       "assignments": [
-        "<a href=\"http://www.codecademy.com/tracks/web\">Code Academy: HTML Basics</a>",
+        "<a href=\"http://www.codecademy.com/tracks/web\">Codecademy: HTML Basics</a>",
         "PluraSight HTML & CSS Intro Module"
       ]
     },{
@@ -94,41 +95,45 @@
       "assignments": [
         "Project 1: Complete HTML conversion of Resume content",
         "Pluralsight HTML Intermediate module",
-        "Work on LinkedIn site"
+        "Databases Pluralsight Beginner Module"
       ]
     },{
       "title": "Introduction to Databases & SQL",
       "date": "2/2/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
-        "How Databases are used by Websites",
         "Introduction to Relational Databases (RDBMS): Tables and columns",
         "Relationships: Joining tables together",
         "SQL (Structured Query Language): Filtering data based on criteria",
         "Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)"
       ],
       "presentations": [
-        "6:30-8:00 Databases"
+        "5:30-8:00 Databases"
+      ],
+      "assignments": [
+          "Prep LinkedIn website for next week"
       ]
     },{
       "title": "Decisionmaking and Problem Solving",
       "date": "2/4/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
+        "Self Esteem",
         "Coping Skills: Decisionmaking, Problem Solving",
         "Troubleshooting & Tech Support: Asking the right questions"
       ],
       "presentations": [
-        "5:30-8:00 Coping Skills: Decisionmaking, Problem Solving (Julie Lerman)"
+        "6:30-8:00 Coping Skills: Decisionmaking, Problem Solving (Julie Lerman)"
       ],
       "labs": [
         "Identifying problems with code examples",
         "Submitting a clear bug report with steps to reproduce"
       ],
       "assignments": [
-        "Barriers Excercise"
+        "HTML Pluralsight Intermediate module",
+        "Self esteem assignment"
       ]
     },{
       "title": "Introduction to CSS (Cascading Style Sheets)",
@@ -154,7 +159,7 @@
     },{
       "title": "Online Etiquette and Social Media",
       "date": "2/9/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "One-on-one meetings",
@@ -166,12 +171,12 @@
         "6:30-8:00 LinkedIn (Meghan Oliver)"
       ],
       "assignments": [
-        "Resumes revised make online changes"
+        "Work on LinkedIn account updates"
       ]
     },{
       "title": "Image Manipulation & Photoshop",
       "date": "2/11/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Image resolution and quality",
@@ -185,7 +190,7 @@
         "Photoshop: Slicing Image Files"
       ],
       "assignments": [
-        "Follow up on barriers and self esteem exercise"
+        "Pluralsight module: Intermediate CSS"
       ]
     },{
       "title": "HTML & CSS for Layout",
@@ -214,18 +219,19 @@
     },{
       "title": "Communication: Assertiveness, Support Networks",
       "date": "2/16/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Communication: Assertiveness, Support Networks"
       ],
       "presentations": [
         "6:00-7:00 Communication: Assertiveness, Support Networks (Jenny)"
+        "7:00-8:00 Gaming"
       ]
     },{
       "title": "Version Control with Git",
       "date": "2/18/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Introduction to Version Control Systems (VCS)",
@@ -235,7 +241,7 @@
         "Introduction to Github: Adding a remote and pushing your changes"
       ],
       "presentations": [
-        "Introduction to Git and Github"
+        "5:30-8:00 Introduction to Git and Github"
       ]
     },{
       "title": "CSS Background Images and Effects",
@@ -259,7 +265,7 @@
     },{
       "title": "Networking, Giving & Receiving Feedback",
       "date": "3/2/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Girl Develop It and Networking",
@@ -275,7 +281,7 @@
     },{
       "title": "Cover Letters",
       "date": "3/4/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Cover Letters"
@@ -306,7 +312,7 @@
     },{
       "title": "Data Analysis & Analytics",
       "date": "3/9/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Google Analytics",
@@ -319,7 +325,7 @@
     },{
       "title": "Handling Failure and Harassment",
       "date": "3/11/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Sexual Harassment",
@@ -346,7 +352,7 @@
     },{
       "title": "Interview Panel",
       "date": "3/16/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Interview Panel"
@@ -357,7 +363,7 @@
     },{
       "title": "Launching a Website: Domains, Hosting & FTP",
       "date": "3/18/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Purchasing a Domain: Registrars",
@@ -387,7 +393,7 @@
     },{
       "title": "Social Media and Marketing",
       "date": "3/23/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Social Media and Marketing"
@@ -398,7 +404,7 @@
     },{
       "title": "Arduino",
       "date": "3/25/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Arduino"
@@ -417,7 +423,7 @@
     },{
       "title": "Follow Up 1",
       "date": "3/30/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Networking, project review and problem solving, employment support"
@@ -425,7 +431,7 @@
     },{
       "title": "Follow Up 2",
       "date": "4/6/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Networking, project review and problem solving, employment support"
@@ -433,7 +439,7 @@
     },{
       "title": "Follow Up 3",
       "date": "4/13/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Networking, project review and problem solving, employment support",
@@ -453,7 +459,7 @@
     },{
       "title": "Follow Up 5",
       "date": "4/27/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Participant  Project Presentations & Feedback"
@@ -461,7 +467,7 @@
     },{
       "title": "Follow Up 6",
       "date": "5/4/15",
-      "start_time": "5:30am",
+      "start_time": "5:30pm",
       "end_time": "8:00pm",
       "subjects": [
         "Participant  Project Presentations & Feedback"
