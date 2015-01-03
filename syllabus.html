@@ -39,9 +39,9 @@ permalink: /syllabus/
   <h3>Resources</h3>
   <ul>
     {% for resource in session.resources %}
-    {% set url = resource.url %}
-    {% if url not contains 'http' %}
-      {% set url = resource.url | prepend: site.baseurl %}
+    {% assign url = resource.url | prepend: site.baseurl %}
+    {% if url contains 'http' %}
+      {% assign url = resource.url %}
     {% endif %}
     <li><a href="{{ resource.url }}">{{ resource.name }}</a></li>
     {% endfor %}
