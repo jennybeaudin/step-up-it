@@ -3,6 +3,7 @@ layout: default
 title: Jobs in IT
 menu_text: Jobs in IT
 permalink: /jobs-in-it/
+menu_hide: 1
 ---
 
 - Project Management 
