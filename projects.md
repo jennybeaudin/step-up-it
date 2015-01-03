@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-There are 4 projects that comprise the HTML & CSS 
+There are 3 projects that comprise the HTML & CSS 
 section of this course. The requirements for each one are described below.
 
 ## Project 1: Resume
