@@ -25,7 +25,7 @@ Online Learning & Courses
 Free resources and courses for online learning.
 
 -   [TutsPlus Learn CSS](http://learncss.tutsplus.com/): CSS course
--   [Code Academy](http://www.codecademy.com/): Web Development Courses
+-   [Codecademy](http://www.codecademy.com/): Web Development Courses
 -   [Try jQuery](http://try.jquery.com/): Introduction to jQuery Course
 -   [CSS Tricks: All About
     Floats](http://css-tricks.com/all-about-floats/): Explanation of CSS
