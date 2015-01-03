@@ -16,8 +16,10 @@ Software
 Documentation & References
 --------------------------
 
-*   [DevDocs.io](http://devdocs.io/): Documentation for HTML, CSS, Javascript and more
+-   [DevDocs.io](http://devdocs.io/): Documentation for HTML, CSS, Javascript and more
 -   [HTMLDog](http://htmldog.com): HTML/CSS Reference
+-   [Introduction to Navigating HTML/CSS with Chrome DevTools](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#live-preview)
+-   [How to Use Brackets Live Preview](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#live-preview)
 
 Online Learning & Courses
 -------------------------

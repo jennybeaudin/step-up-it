@@ -8,7 +8,9 @@ permalink: /syllabus/
 {% for session in site.data.syllabus.sessions %}
 <article class="session">
   <header>
-    <h2>{{ forloop.index }}{% if session.title %}. <span class="title">{{ session.title }}</span>{% endif %}</h2>
+    <h2>
+      {{ forloop.index }}{% if session.title %}. <span class="title">{{ session.title }}</span>{% endif %}
+    </h2>
     <p class="datetime">{{ session.date }} {{ session.start_time }} - {{ session.end_time }}</p>
   </header>
   <h3>Subjects</h3>

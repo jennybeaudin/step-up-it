@@ -79,12 +79,12 @@
       "start_time": "9:00am",
       "end_time": "3:00pm",
       "subjects": [
-        "Introduction to Project 1: Resume",
         "Introduction to HTML: Tags and Attributes",
         "HTML Document Structure: html, head and body tags",
         "HTML for Content: Headings, Paragraphs, Emphasis, Lists, Links and Images",
         "HTML for Structure: Sections and articles",
-        "Chrome Developer Tools"
+        "Chrome Developer Tools",
+        "Introduction to Project 1: Resume"
       ],
       "labs": [
         "Hello World in HTML",
@@ -95,7 +95,11 @@
       "resources": [
         {
             "name": "Slides: Introduction to HTML",
-            "url": "http://www.slideshare.net/hglennrock/intro-htmlcss-class4"
+            "url": "http://www.slideshare.net/hglennrock/gdi-intro-htmlcssclass1mm"
+        },
+        {
+            "name": "Session Notes",
+            "url": "/classes/05-intro-to-html/"
         }
       ],
       "assignments": [
