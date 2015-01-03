@@ -4,21 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-Labs
-----
-
-TODO: Labs
-
-Lecture Notes
--------------
-
-TODO: Lecture Noes
-
-Homework
---------
-
-TODO: Homework
-
 Software
 --------
 
