@@ -46,6 +46,15 @@ Free resources and courses for online learning.
 - [FreeCodeCamp](http://www.freecodecamp.com/): Learn to code by building projects for nonprofits (HTML, CSS, Javascript, jQuery, Node.js, MongoDB, Git)
 - [Dash](https://dash.generalassemb.ly/): Learn HTML, CSS, and Javascript through fun projects you can do in your browser.
 
+Slideshows
+----------
+
+- GDI Seattle Intro to HTML and CSS
+  - [Class 1](http://www.slideshare.net/hglennrock/gdi-intro-htmlcssclass1mm): Intro to HTML
+  - [Class 2](http://www.slideshare.net/hglennrock/intro-htmlcss-class2): Intro to CSS
+  - [Class 3](http://www.slideshare.net/hglennrock/class3-introhtmlcss): Divs, Margins, Padding, Borders and the Box Model
+  - [Class 4](http://www.slideshare.net/hglennrock/intro-htmlcss-class4): CSS Layout with Floats and Position
+
 Tools & Resources
 -----------------
 

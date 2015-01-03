@@ -92,6 +92,12 @@
         "Exploring HTML source code with Chrome Developer Tools",
         "Conversion of Resume to HTML"
       ],
+      "resources": [
+        {
+            "name": "Slides: Introduction to HTML",
+            "url": "http://www.slideshare.net/hglennrock/intro-htmlcss-class4"
+        }
+      ],
       "assignments": [
         "Project 1: Complete HTML conversion of Resume content",
         "Pluralsight HTML Intermediate module",

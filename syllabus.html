@@ -33,6 +33,14 @@ permalink: /syllabus/
     {% endfor %}
   </ul>
   {% endif %}
+  {% if session.resources %}
+  <h3>Resources</h3>
+  <ul>
+    {% for resource in session.resources %}
+    <li><a href="{{ resource.url }}">{{ resource.name }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% if session.assignments %}
   <h3>Assignments Due Next Session</h3>
   <ul>
