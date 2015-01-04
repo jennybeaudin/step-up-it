@@ -43,7 +43,7 @@ permalink: /syllabus/
     {% if resource.url contains 'http' %}
       {% assign url = resource.url %}
     {% endif %}
-    <li><a href="{{ resource.url }}">{{ resource.name }}</a></li>
+    <li><a href="{{ url }}">{{ resource.name }}</a></li>
     {% endfor %}
   </ul>
   {% endif %}
