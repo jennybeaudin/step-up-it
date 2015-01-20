@@ -7,10 +7,9 @@ permalink: /resources/
 Software
 --------
 
--   [Brackets](http://brackets.io/): Free HTML/CSS/Javascript Editor
-    from Adobe
--   [FileZilla](https://filezilla-project.org/): Free cross-platform FTP
-    software
+-   [Brackets Editor](http://brackets.io/): Free HTML/CSS/Javascript Editor from Adobe
+-   [FileZilla](https://filezilla-project.org/): Free cross-platform FTP software
+-   [Chrome Browser](https://www.google.com/chrome/): Google Chrome Browser + Developer Tools
 -   [Git for Windows](http://msysgit.github.io/): Free git client for windows with shell and graphical interfaces.
 
 Documentation & References
