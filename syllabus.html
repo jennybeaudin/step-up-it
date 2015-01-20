@@ -5,56 +5,668 @@ permalink: /syllabus/
 ---
 
 <div class="syllabus">
-{% for session in site.data.syllabus.sessions %}
-<article class="session">
-  <header>
-    <h2>
-      {{ forloop.index }}{% if session.title %}. <span class="title">{{ session.title }}</span>{% endif %}
-    </h2>
-    <p class="datetime">{{ session.date }} {{ session.start_time }} - {{ session.end_time }}</p>
-  </header>
-  <h3>Subjects</h3>
-  <ul>
-    {% for subject in session.subjects %}
-    <li>{{ subject }}</li>
-    {% endfor %}
-  </ul>
-  {% if session.presentations %}
-  <h3>Presentations</h3>
-  <ul>
-    {% for presentation in session.presentations %}
-    <li>{{ presentation }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-  {% if session.labs %}
-  <h3>Labs</h3>
-  <ul>
-    {% for lab in session.labs %}
-    <li>{{ lab }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-  {% if session.resources %}
-  <h3>Resources</h3>
-  <ul>
-    {% for resource in session.resources %}
-    {% assign url = resource.url | prepend: site.baseurl %}
-    {% if resource.url contains 'http' %}
-      {% assign url = resource.url %}
-    {% endif %}
-    <li><a href="{{ url }}">{{ resource.name }}</a></li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-  {% if session.assignments %}
-  <h3>Assignments Due Next Session</h3>
-  <ul>
-    {% for assignment in session.assignments %}
-    <li>{{ assignment }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</article>
-{% endfor %}
+    <article class="session">
+        <header>
+            <h2>
+                1. <span class="title">Introduction</span>
+            </h2>
+            <p class="datetime">1/21/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>VWW Welcome w/ Tiff or Rachel</li>
+            <li>Intakes, Emergency Contact info, Assessments</li>
+            <li>Ice Breaker - Getting to know you</li>
+            <li>Course overview (Github site for curriculum and assignments), Group Rules, Goals, Expectations</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Goal setting - what do you hope to get out of the program - what kind of job are you looking for?</li>
+            <li>Prep for Saturday - Create a gmail and google docs account, create a folder to store your assignments named 'Firstname Lastname - Step Up IT' (example: 'Jenny Beaudin - Step Up IT') and share it with the VWW account (TODO: Fill in email)</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                2. <span class="title">Women in IT Panel & Computer Setup</span>
+            </h2>
+            <p class="datetime">1/24/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Check-in</li>
+            <li>Paperwork follow up</li>
+            <li>Homework review</li>
+            <li>Computer set-up and installing programs (text editor, HTML, CSS, JS, other), intro to Pluralsight, Codecademy, Gmail accounts, Google docs</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>10:30-12:30 - Programming and Logic overview/ice breaker (Karen Walkerman)</li>
+            <li>1:00-3:00 - Women in IT Panel Discussion & Jobs in IT in Vermont: How you got to where you are and how self esteem plays a role (Robin Lane Allison Miller, Maura Crawford, Maureen McElaney, Donna Bepler)</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Hello World exercise</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Look around and familiarize with Pluralsight and Codecademy</li>
+            <li>Pluralsight module on CSS and HTML</li>
+            <li>Resumes: Drafts to Jenny by Monday</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                3. <span class="title">Computer Anatomy</span>
+            </h2>
+            <p class="datetime">1/26/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Check-in and Homework Review</li>
+            <li>Computer Anatomy & Terminology: Operating Systems, Software, Malware</li>
+            <li>Hardware: CPU, Memory (RAM), Hard Drive</li>
+            <li>Networking: Wired/Wireless Networking, Routers</li>
+            <li>Software: Email Clients, Web Browsers</li>
+            <li>Operating Systems: Windows, Mac OS, Linux, Android/iOS</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>Computer Anatomy</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Resumes: 2nd Draft to Jenny by next class</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                4. <span class="title">Resumes and Self Esteem</span>
+            </h2>
+            <p class="datetime">1/28/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Resumes</li>
+            <li>Self Esteem from the Field</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:30-8:00 - Self Esteem from the Field (Karyn Vogel)</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li><a href="http://www.codecademy.com/tracks/web">Codecademy: HTML Basics</a></li>
+            <li>Pluralsight HTML & CSS Intro Module</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                5. <span class="title">Introduction to HTML (Hypertext Markup Language)</span>
+            </h2>
+            <p class="datetime">1/31/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to HTML: Tags and Attributes</li>
+            <li>HTML Document Structure: html, head and body tags</li>
+            <li>HTML for Content: Headings, Paragraphs, Emphasis, Lists, Links and Images</li>
+            <li>HTML for Structure: Sections and articles</li>
+            <li>Chrome Developer Tools</li>
+            <li>Introduction to Project 1: Resume</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Hello World in HTML</li>
+            <li>Brackets Editor Live Preview</li>
+            <li>Exploring HTML source code with Chrome Developer Tools</li>
+            <li>Conversion of Resume to HTML</li>
+        </ul>
+        <h3>Resources</h3>
+        <ul>
+            <li><a href="http://www.slideshare.net/hglennrock/gdi-intro-htmlcssclass1mm">Slides: Introduction to HTML</a></li>
+            <li><a href="/step-up-it/classes/05-intro-to-html/">Session Notes</a></li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 1: Complete HTML conversion of Resume content</li>
+            <li>Pluralsight HTML Intermediate module</li>
+            <li>Databases Pluralsight Beginner Module</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                6. <span class="title">Introduction to Databases & SQL</span>
+            </h2>
+            <p class="datetime">2/2/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to Relational Databases (RDBMS): Tables and columns</li>
+            <li>Relationships: Joining tables together</li>
+            <li>SQL (Structured Query Language): Filtering data based on criteria</li>
+            <li>Other Datastores: Document Databases (Mongo), Search Engines (Elasticsearch)</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>5:30-8:00 Databases</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Prep LinkedIn website for next week</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                7. <span class="title">Decisionmaking and Problem Solving</span>
+            </h2>
+            <p class="datetime">2/4/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Self Esteem</li>
+            <li>Coping Skills: Decisionmaking, Problem Solving</li>
+            <li>Troubleshooting & Tech Support: Asking the right questions</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:30-8:00 Coping Skills: Decisionmaking, Problem Solving (Julie Lerman)</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Identifying problems with code examples</li>
+            <li>Submitting a clear bug report with steps to reproduce</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>HTML Pluralsight Intermediate module</li>
+            <li>Self esteem assignment</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                8. <span class="title">Introduction to CSS (Cascading Style Sheets)</span>
+            </h2>
+            <p class="datetime">2/7/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>HTML Attribute: Class</li>
+            <li>Introduction to CSS: Properties + Values = Rules</li>
+            <li>CSS Selectors: Tag and .class Selector</li>
+            <li>CSS for Typography: Font/text properties, Web fonts, links (hover/visited/hover/active)</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Attaching a stylesheet with the link tag</li>
+            <li>Brackets Inline CSS Editor</li>
+            <li>Exploring CSS styles with Chrome Developer Tools</li>
+            <li>Using Google webfonts</li>
+            <li>Resume typographic styling with CSS</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 1: Apply CSS styling to Resume</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                9. <span class="title">Online Etiquette and Social Media</span>
+            </h2>
+            <p class="datetime">2/9/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>One-on-one meetings</li>
+            <li>Homework Check-In and Review</li>
+            <li>Email etiquette, cleaning up social media, resume review</li>
+            <li>LinkedIn</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:30-8:00 LinkedIn (Meghan Oliver)</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Work on LinkedIn account updates</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                10. <span class="title">Image Manipulation & Photoshop</span>
+            </h2>
+            <p class="datetime">2/11/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Image resolution and quality</li>
+            <li>Photoshop Basics: Resizing and Cropping</li>
+            <li>Optimizing Images for the web and print</li>
+            <li>Raster Image Formats: JPG and PNG</li>
+            <li>Vector Image Formats: EPS and SVG</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Photoshop: Save for Web Dialog</li>
+            <li>Photoshop: Slicing Image Files</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Pluralsight module: Intermediate CSS</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                11. <span class="title">HTML & CSS for Layout</span>
+            </h2>
+            <p class="datetime">2/14/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to Project 2: Site Layout</li>
+            <li>HTML Tags for Layout: div, header, footer, nav and main</li>
+            <li>HTML Attributes: id</li>
+            <li>CSS Selectors: #id selector: </li>
+            <li>CSS: Floats for Content Images</li>
+            <li>CSS: Floats for Multi Column Layout</li>
+            <li>CSS: Positioning</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Utility classes for content images (left, right, center)</li>
+            <li>Create a three column layout of 3 products with images floats</li>
+            <li>Create a fixed header with positioning</li>
+            <li>Add product titles with relative and absolute positioning</li>
+            <li>HTML/CSS Site Layout</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 2: Complete HTML for Site Layout</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                12. <span class="title">Communication: Assertiveness, Support Networks</span>
+            </h2>
+            <p class="datetime">2/16/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Communication: Assertiveness, Support Networks</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:00-7:00 Communication: Assertiveness, Support Networks (Jenny)</li>
+            <li>7:00-8:00 Gaming</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                13. <span class="title">Version Control with Git</span>
+            </h2>
+            <p class="datetime">2/18/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to Version Control Systems (VCS)</li>
+            <li>Introduction to Git: Staging and commiting changes</li>
+            <li>Introduction to Git: Branches</li>
+            <li>Introduction to Git: Merging</li>
+            <li>Introduction to Github: Adding a remote and pushing your changes</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>5:30-8:00 Introduction to Git and Github</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                14. <span class="title">Introduction to jQuery</span>
+            </h2>
+            <p class="datetime">2/21/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to Project 3: Photo Gallery</li>
+            <li>jQuery: The Javascript Utility Belt for the Browser</li>
+            <li>jQuery: Finding HTML tags using CSS Selectors</li>
+            <li>jQuery: Responding to User Input with Events</li>
+            <li>jQuery: Animation</li>
+            <li>jQuery: Plugins</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Debugging css selectors using jQuery and the developer toolbar</li>
+            <li>Adding jQuery to an HTML page</li>
+            <li>Creating a slideshow using jquery plugins</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 2: Complete application of CSS to HTML for Site Layout</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                15. <span class="title">Networking, Giving & Receiving Feedback</span>
+            </h2>
+            <p class="datetime">3/2/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Girl Develop It and Networking</li>
+            <li>Giving and Receiving Feedback</li>
+            <li>Technical documentation and instructions</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:00-7:00 Girl Develop It and Networking (Maureen McElaney)</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Writing technical documentation</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Pluralsight on CSS background images and effects</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                16. <span class="title">Cover Letters</span>
+            </h2>
+            <p class="datetime">3/4/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Cover Letters</li>
+            <li>Project Management</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>Project Management</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Pluralsight on JQuery</li>
+            <li>Work on Cover Letters</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                17. <span class="title">Introduction to Javascript</span>
+            </h2>
+            <p class="datetime">3/7/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Introduction to Javascript: Adding behavior to web sites</li>
+            <li>Javascript: Variables and Conditional Logic</li>
+            <li>Javascript: Functions</li>
+            <li>Javascript: Loops</li>
+            <li>Javascript: Objects</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Hello World in Javascript</li>
+            <li>Writing a calculator in javascript</li>
+            <li>Exploring javascript with the Web Developer toolbar</li>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 3: Collect and resize thumbnails and large versions of 10 images along with captions for photo gallery.</li>
+            <li>Project 3: Create HTML page with all thumbnail images linked to large versions and with a title attribute on the links</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                18. <span class="title">Data Analysis & Analytics</span>
+            </h2>
+            <p class="datetime">3/9/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Google Analytics</li>
+            <li>Data Analysis with Python</li>
+            <li>Data Visualization</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>Google Analytics</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                19. <span class="title">Data Warehousing & Manipulation</span>
+            </h2>
+            <p class="datetime">3/11/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Data Warehousing</li>
+            <li>Data Manipulation</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                20. <span class="title">Javascript Continued</span>
+            </h2>
+            <p class="datetime">3/14/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+        </ul>
+        <h3>Assignments Due Next Session</h3>
+        <ul>
+            <li>Project 3: Add CSS Styling and jQuery Lightbox plugin to open large images in an overlay with a caption when the thumbnails are clicked</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                21. <span class="title">Interview Panel</span>
+            </h2>
+            <p class="datetime">3/16/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Interview Panel</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:00-8:00 Interview Panel</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                22. <span class="title">Launching a Website: Domains, Hosting & FTP</span>
+            </h2>
+            <p class="datetime">3/18/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Purchasing a Domain: Registrars</li>
+            <li>Purchasing Hosting: Web Hosting Provides</li>
+            <li>Connecting Domains to a Hosting Account: DNS Servers</li>
+            <li>Uploading website files using FTP: Web root</li>
+            <li>Launch Checklist</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:00-8:00 Launching a website: Domains, Hosting and FTP</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Using FTP to transfer files to a hosting account</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                23. <span class="title">Content Management Systems & Wordpress</span>
+            </h2>
+            <p class="datetime">3/21/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>What is a CMS?</li>
+            <li>Wordpress: Tour (Blog Posts and Pages)</li>
+            <li>Wordpress: Installation</li>
+            <li>Wordpress: Themes</li>
+            <li>Wordpress: Plugins</li>
+        </ul>
+        <h3>Labs</h3>
+        <ul>
+            <li>Installation of wordpress</li>
+            <li>Creation and modification of a theme</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                24. <span class="title">Social Media and Marketing</span>
+            </h2>
+            <p class="datetime">3/23/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Social Media and Marketing</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:00-8:00 Social Media and Marketing</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                25. <span class="title">Arduino</span>
+            </h2>
+            <p class="datetime">3/25/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Arduino</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>5:30-8:00 Arduino Workshop</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                26. <span class="title">Student Presentations</span>
+            </h2>
+            <p class="datetime">3/28/15 9:00am - 3:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Student Presentations</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                27. <span class="title">Follow Up 1</span>
+            </h2>
+            <p class="datetime">3/30/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Networking, project review and problem solving, employment support</li>
+            <li>What can failure teach us?</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>7:00-8:00 Isaiah Keepin</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                28. <span class="title">Follow Up 2</span>
+            </h2>
+            <p class="datetime">4/6/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Networking, project review and problem solving, employment support</li>
+            <li>Sexual Harassment</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                29. <span class="title">Follow Up 3</span>
+            </h2>
+            <p class="datetime">4/13/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Networking, project review and problem solving, employment support</li>
+            <li>Negotation</li>
+        </ul>
+        <h3>Presentations</h3>
+        <ul>
+            <li>6:30-8:00 Negotation in the workplace (Meghan Oliver)</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                30. <span class="title">Follow Up 4</span>
+            </h2>
+            <p class="datetime">4/20/15 6:30am - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Networking, project review and problem solving, employment support</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                31. <span class="title">Follow Up 5</span>
+            </h2>
+            <p class="datetime">4/27/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Participant Project Presentations & Feedback</li>
+        </ul>
+    </article>
+    <article class="session">
+        <header>
+            <h2>
+                32. <span class="title">Follow Up 6</span>
+            </h2>
+            <p class="datetime">5/4/15 5:30pm - 8:00pm</p>
+        </header>
+        <h3>Subjects</h3>
+        <ul>
+            <li>Participant Project Presentations & Feedback</li>
+        </ul>
+    </article>
 </div>
