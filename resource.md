@@ -28,24 +28,17 @@ Free resources and courses for online learning.
 -   [TutsPlus Learn CSS](http://learncss.tutsplus.com/): CSS course
 -   [Codecademy](http://www.codecademy.com/): Web Development Courses
 -   [Try jQuery](http://try.jquery.com/): Introduction to jQuery Course
--   [CSS Tricks: All About
-    Floats](http://css-tricks.com/all-about-floats/): Explanation of CSS
-    floats
--   [Discover
-    DevTools](https://www.codeschool.com/courses/discover-devtools):
-    Chrome Developer Tools Course
--   [Javascript
-    Roadtrip](https://www.codeschool.com/courses/javascript-road-trip-part-1):
-    Introduction to Javascript Course
+-   [CSS Tricks: All About Floats](http://css-tricks.com/all-about-floats/): Explanation of CSS floats
+-   [Discover DevTools](https://www.codeschool.com/courses/discover-devtools): Chrome Developer Tools Course
+-   [Javascript Roadtrip](https://www.codeschool.com/courses/javascript-road-trip-part-1): Introduction to Javascript Course
 -   [Learn CSS Layout](http://learnlayout.com/): CSS Layout Course
--   [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/):
-    HTML + CSS Course
+-   [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/): HTML + CSS Course
 -   [Software Carpentry](http://software-carpentry.org): Lessons & Workshops for Scientific Computing (Git, Python, Databases/SQL)
 -   [RailsBridge](http://docs.railsbridge.org/docs/): Lessons Materials for RailsBridge Workshops (HTML, CSS, Javascript, Ruby)
 -   [Try Git](https://try.github.io)
 -   [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction)
-- [FreeCodeCamp](http://www.freecodecamp.com/): Learn to code by building projects for nonprofits (HTML, CSS, Javascript, jQuery, Node.js, MongoDB, Git)
-- [Dash](https://dash.generalassemb.ly/): Learn HTML, CSS, and Javascript through fun projects you can do in your browser.
+-   [FreeCodeCamp](http://www.freecodecamp.com/): Learn to code by building projects for nonprofits (HTML, CSS, Javascript, jQuery, Node.js, MongoDB, Git)
+-   [Dash](https://dash.generalassemb.ly/): Learn HTML, CSS, and Javascript through fun projects you can do in your browser.
 
 Slideshows
 ----------
