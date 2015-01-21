@@ -39,6 +39,8 @@ Free resources and courses for online learning.
 -   [Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction)
 -   [FreeCodeCamp](http://www.freecodecamp.com/): Learn to code by building projects for nonprofits (HTML, CSS, Javascript, jQuery, Node.js, MongoDB, Git)
 -   [Dash](https://dash.generalassemb.ly/): Learn HTML, CSS, and Javascript through fun projects you can do in your browser.
+-   [Programming Javascript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html): Free Online Book on Javascript
+-   [JS: The Right Way](http://jstherightway.org/): Online reference of Javascript Best Practices
 
 Slideshows
 ----------
