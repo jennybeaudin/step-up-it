@@ -19,6 +19,7 @@ Documentation & References
 -   [HTMLDog](http://htmldog.com): HTML/CSS Reference
 -   [Introduction to Navigating HTML/CSS with Chrome DevTools](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#live-preview)
 -   [How to Use Brackets Live Preview](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#live-preview)
+-   [Awesome HTML5](https://github.com/diegocard/awesome-html5): Collection of HTML5 Resources
 
 Online Learning & Courses
 -------------------------
