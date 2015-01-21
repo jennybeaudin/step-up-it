@@ -92,13 +92,11 @@ Tools & Resources
 -   [CSS 3 Generator](http://css3generator.com/): Tool for generating
     CSS3
 
-
 Plugins & Libraries
 -------------------
 
--   [jQuery Cycle2](http://jquery.malsup.com/cycle2/): jQuery Slideshow
-    Plugin
--   [Fotorama](http://fotorama.io/): jQuery Lightobx/Gallery Plugin
+-   [jQuery Plugins](http://plugins.jquery.com/): Official jQuery Plugin Repository
+-   [Unheap](http://www.unheap.com/): Categorized repository of jQuery Plugins
 
 Certifications
 --------------
