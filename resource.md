@@ -11,6 +11,7 @@ Software
 -   [FileZilla FTP Client](https://filezilla-project.org/): Free cross-platform FTP software
 -   [Chrome Browser](https://www.google.com/chrome/): Google Chrome Browser + Developer Tools
 -   [Git for Windows](http://msysgit.github.io/): Free git client for windows with shell and graphical interfaces.
+-   Github Client [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/): Free git/github client
 
 Documentation & References
 --------------------------
