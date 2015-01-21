@@ -4,6 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
+Step Up to IT
+-------------
+
+-   [Step Up to IT Mailing List](https://groups.google.com/forum/#!members/step-up-it): Online Forum/Mailing List on Google Groups
+
 Software
 --------
 
