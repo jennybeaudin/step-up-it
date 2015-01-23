@@ -6,12 +6,12 @@ permalink: /directions/
 
 ## Directions to SkillTech
 
-**SkillTech**
-A divison of Center for Technology
-Essex 2 Educational Dr.
-Suite 200
-Essex Junction, VT 05452 
-802-879-5559 
+**SkillTech**  
+A divison of Center for Technology  
+Essex 2 Educational Dr.  
+Suite 200  
+Essex Junction, VT 05452  
+802-879-5559  
 
 ### From Burlington and South
 
