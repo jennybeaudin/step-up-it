@@ -90,6 +90,7 @@ completing a project such as building a wordpress site or pursuing an intership 
 
 - Lose 1 css class or redistribute it to allow for an extra javascritp class
 - Add weekday assignments to reinforce saturday material via elearning sources
+- Test change!
 
 ## Other Subjects to Cover
 
